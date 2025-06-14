@@ -20,9 +20,9 @@ Email: [xuyang.zhang@kcl.ac.uk](xuyang.zhang@kcl.ac.uk)
 News
 ======
 * **Apr 2025**: Our work on robotic handling of thin and flexible objects using rotatable tactile sensors has been accepted to IEEE Transactions on Robotics, congratulations to the team! [[paper link]](https://ieeexplore.ieee.org/abstract/document/11024242/) [[website]](https://sites.google.com/view/rotipbot/)
-* **Sep 2024**: Our work on soft gripper with a biomimetic optical tactile palm for stable precise grasping has been aaccepted to IEEE Sensors Journal, congratulations to the team! [[paper link]](https://ieeexplore.ieee.org/abstract/document/10706767/) [[video]](https://www.youtube.com/watch?v=RV-Zy8jwzhM/)
+* **Sep 2024**: Our work on soft gripper with a biomimetic optical tactile palm for stable precise grasping has been accepted to IEEE Sensors Journal, congratulations to the team! [[paper link]](https://ieeexplore.ieee.org/abstract/document/10706767/) [[video]](https://www.youtube.com/watch?v=RV-Zy8jwzhM/)
 * **Jun 2023**: I start my PhD journey at Robot Perception Lab at King's College London!
-* **Apr 2023**: Our work on tactile mobile manipulators for warehouse automation has been aaccepted to RA-L, congratulations to the team! [[paper link]](https://ieeexplore.ieee.org/abstract/document/10155191/) [[website]](https://sites.google.com/view/tacmms/)
+* **Apr 2023**: Our work on tactile mobile manipulators for warehouse automation has been accepted to RA-L, congratulations to the team! [[paper link]](https://ieeexplore.ieee.org/abstract/document/10155191/) [[website]](https://sites.google.com/view/tacmms/)
 * **Mar 2023**: I am awarded the NMES Faculty Scholarship from King's College London!
 * **Feb 2023**: I am awarded Robotics MSc Best Project Prize!
 * **Dec 2022**: I obtain my Master’s Degree in Robotics with Distinction! 
